@@ -51,3 +51,12 @@ While Home Credit is currently using various statistical and machine learning me
 
 ![alt text](https://storage.googleapis.com/kaggle-media/competitions/home-credit/home_credit.png)
 
+# About Files
+
+[EdaUtills.py](https://github.com/alibaltaci/Home-Credit-Default-Risk/blob/main/EdaUtills.py) : Functions for Exploratory Data Analysis (EDA) Home Credit Project.
+
+[FeatEngUtills.py](https://github.com/alibaltaci/Home-Credit-Default-Risk/blob/main/FeatEngUtills.py) : Functions for Feature Engineering Home Credit Project.
+
+[homeCreditEda.py](https://github.com/alibaltaci/Home-Credit-Default-Risk/blob/main/homeCreditEda.py) : It includes the Exploratory Data Analysis process.
+
+[DataPrepandFeatureEng.py](https://github.com/alibaltaci/Home-Credit-Default-Risk/blob/main/DataPrepandFeatureEng.py) : Includes Data Preparation and Feature Engineering processes.
