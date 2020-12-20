@@ -1,6 +1,8 @@
 # Home-Credit-Default-Risk
 
+
 ![Home Credit](https://user-images.githubusercontent.com/71599944/102082322-d0556680-3e22-11eb-96d4-3433cb10f823.png)
+
 
 Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.
 
