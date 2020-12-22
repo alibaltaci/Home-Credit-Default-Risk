@@ -1,8 +1,6 @@
 # Home-Credit-Default-Risk
 
-
 ![Home Credit](https://user-images.githubusercontent.com/71599944/102082322-d0556680-3e22-11eb-96d4-3433cb10f823.png)
-
 
 Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.
 
@@ -49,7 +47,9 @@ While Home Credit is currently using various statistical and machine learning me
 * There is a) one row for every payment that was made plus b) one row each for missed payment.
 * One row is equivalent to one payment of one installment OR one installment corresponding to one payment of one previous Home Credit credit related to loans in our sample.
 
+
 ![alt text](https://storage.googleapis.com/kaggle-media/competitions/home-credit/home_credit.png)
+
 
 # About Files
 
@@ -60,3 +60,4 @@ While Home Credit is currently using various statistical and machine learning me
 [homeCreditEda.py](https://github.com/alibaltaci/Home-Credit-Default-Risk/blob/main/homeCreditEda.py) : It includes the Exploratory Data Analysis process.
 
 [DataPrepandFeatureEng.py](https://github.com/alibaltaci/Home-Credit-Default-Risk/blob/main/DataPrepandFeatureEng.py) : Includes Data Preparation and Feature Engineering processes.
+
