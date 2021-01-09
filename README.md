@@ -3,7 +3,44 @@
 
 ![Home Credit](https://user-images.githubusercontent.com/71599944/102082322-d0556680-3e22-11eb-96d4-3433cb10f823.png)
 
+In this project we try to predict home credit default risk for clients. We try to predict, if the client will have payment difficulties or not.
 
+Dataset: https://www.kaggle.com/c/home-credit-default-risk/overview
+
+Reference notebook: https://www.kaggle.com/jsaguiar/lightgbm-with-simple-features
+
+Project team members:
+
+Ali Baltaci: https://github.com/alibaltaci
+Beren Sak: https://github.com/berensak
+Yakup Kaplan: https://github.com/yakupkaplan
+Mentor:
+
+Muhammet Cakmak: https://github.com/muhammet-cakmak
+Target definition:
+
+1 - client with payment difficulties: he/she had late payment more than X days on at least one of the first Y installments of the loan in our sample,
+0 - all other cases
+
+Steps to follow for EDA:
+
+General View
+Categorical Variables Analysis
+More Categorical Variables Analysis (Variables, that seem to be numerical, but in fact they have low range of labels and can be thought as categorical variables.)
+Numerical Variables Analysis
+Target Analysis
+Feature by Feature EDA
+Steps to follow for data preprocessing and feature engineering:
+
+New Features Creation and Analysis of New Features
+Missing Values Analysis, but not treatment
+Outlier Analysis, but not treatment
+Label and One Hot Encoding
+Standardization / Feature Scaling
+Control the Dataset
+Save Dataset for Modeling
+
+# Description 
 Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.
 
 Home Credit strives to broaden financial inclusion for the unbanked population by providing a positive and safe borrowing experience. In order to make sure this underserved population has a positive loan experience, Home Credit makes use of a variety of alternative data--including telco and transactional information--to predict their clients' repayment abilities.
