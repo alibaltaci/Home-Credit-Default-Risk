@@ -27,22 +27,22 @@ Reference notebook: https://www.kaggle.com/jsaguiar/lightgbm-with-simple-feature
 
 **Steps to follow for EDA:**
 
-General View
-Categorical Variables Analysis
-More Categorical Variables Analysis (Variables, that seem to be numerical, but in fact they have low range of labels and can be thought as categorical variables.)
-Numerical Variables Analysis
-Target Analysis
-Feature by Feature EDA
+* General View
+* Categorical Variables Analysis
+* More Categorical Variables Analysis (Variables, that seem to be numerical, but in fact they have low range of labels and can be thought as categorical variables.)
+* Numerical Variables Analysis
+* Target Analysis
+* Feature by Feature EDA
 
 **Steps to follow for data preprocessing and feature engineering:**
 
-New Features Creation and Analysis of New Features
-Missing Values Analysis, but not treatment
-Outlier Analysis, but not treatment
-Label and One Hot Encoding
-Standardization / Feature Scaling
-Control the Dataset
-Save Dataset for Modeling
+* New Features Creation and Analysis of New Features
+* Missing Values Analysis, but not treatment
+* Outlier Analysis, but not treatment
+* Label and One Hot Encoding
+* Standardization / Feature Scaling
+* Control the Dataset
+* Save Dataset for Modeling
 
 # Description 
 Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.
