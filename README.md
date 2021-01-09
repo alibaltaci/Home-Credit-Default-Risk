@@ -9,20 +9,23 @@ Dataset: https://www.kaggle.com/c/home-credit-default-risk/overview
 
 Reference notebook: https://www.kaggle.com/jsaguiar/lightgbm-with-simple-features
 
-Project team members:
+**Project team members:**
 
-Ali Baltaci: https://github.com/alibaltaci
-Beren Sak: https://github.com/berensak
-Yakup Kaplan: https://github.com/yakupkaplan
-Mentor:
+* Beren Sak: https://github.com/berensak
+* Yakup Kaplan: https://github.com/yakupkaplan
+* Ali Baltaci: https://github.com/alibaltaci
 
-Muhammet Cakmak: https://github.com/muhammet-cakmak
-Target definition:
+**Mentor:**
 
-1 - client with payment difficulties: he/she had late payment more than X days on at least one of the first Y installments of the loan in our sample,
+* Muhammet Cakmak: https://github.com/muhammet-cakmak
+
+**Target definition:**
+
+ 1 - client with payment difficulties: he/she had late payment more than X days on at least one of the first Y installments of the loan in our sample,
+
 0 - all other cases
 
-Steps to follow for EDA:
+**Steps to follow for EDA:**
 
 General View
 Categorical Variables Analysis
@@ -30,7 +33,8 @@ More Categorical Variables Analysis (Variables, that seem to be numerical, but i
 Numerical Variables Analysis
 Target Analysis
 Feature by Feature EDA
-Steps to follow for data preprocessing and feature engineering:
+
+**Steps to follow for data preprocessing and feature engineering:**
 
 New Features Creation and Analysis of New Features
 Missing Values Analysis, but not treatment
@@ -95,7 +99,4 @@ While Home Credit is currently using various statistical and machine learning me
 
 [FeatEngUtills.py](https://github.com/alibaltaci/Home-Credit-Default-Risk/blob/main/FeatEngUtills.py) : Functions for Feature Engineering Home Credit Project.
 
-[homeCreditEda.py](https://github.com/alibaltaci/Home-Credit-Default-Risk/blob/main/homeCreditEda.py) : It includes the Exploratory Data Analysis process.
-
-[DataPrepandFeatureEng.py](https://github.com/alibaltaci/Home-Credit-Default-Risk/blob/main/DataPrepandFeatureEng.py) : Includes Data Preparation and Feature Engineering processes.
 
