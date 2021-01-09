@@ -44,6 +44,24 @@ Reference notebook: https://www.kaggle.com/jsaguiar/lightgbm-with-simple-feature
 * Control the Dataset
 * Save Dataset for Modeling
 
+# Gains From The Project 
+
+**Valuable gains and milestones from this large-scale classification project are:**
+
+- **Scrum** & **Agile** approach.
+- Communication and division of tasks in a team.
+- Variable hierarchy between different tables.
+- Dealing with dirty data.
+- Functional programming. Defining functions in a separate script and then importing them in the script, where they are needed.
+- Run the model in debug mode.
+- Saving/writing and reading parquet file for big data.
+- Joining / merging and aggregation operations and strategies for different tables.
+- Writing modular scripts to increase understandability.
+- Writing modular scripts to increase understandability
+- Command Line Interfaces usage for debug mode
+- Effect of creating new features to increase model performance
+- RAM and disk relationship. Pickle models, features, hyperparameters for later use and not running the complete model, again.
+
 # Description 
 Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders.
 
@@ -91,12 +109,4 @@ While Home Credit is currently using various statistical and machine learning me
 
 
 ![alt text](https://storage.googleapis.com/kaggle-media/competitions/home-credit/home_credit.png)
-
-
-# About Files
-
-[EdaUtills.py](https://github.com/alibaltaci/Home-Credit-Default-Risk/blob/main/EdaUtills.py) : Functions for Exploratory Data Analysis (EDA) Home Credit Project.
-
-[FeatEngUtills.py](https://github.com/alibaltaci/Home-Credit-Default-Risk/blob/main/FeatEngUtills.py) : Functions for Feature Engineering Home Credit Project.
-
 
