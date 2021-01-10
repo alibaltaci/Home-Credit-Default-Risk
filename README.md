@@ -57,9 +57,8 @@ Reference notebook: https://www.kaggle.com/jsaguiar/lightgbm-with-simple-feature
 - Saving/writing and reading parquet file for big data.
 - Joining / merging and aggregation operations and strategies for different tables.
 - Writing modular scripts to increase understandability.
-- Writing modular scripts to increase understandability
-- Command Line Interfaces usage for debug mode
-- Effect of creating new features to increase model performance
+- Command Line Interfaces usage for debug mode.
+- Effect of creating new features to increase model performance.
 - RAM and disk relationship. Pickle models, features, hyperparameters for later use and not running the complete model, again.
 
 # Description 
