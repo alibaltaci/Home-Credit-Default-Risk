@@ -1,6 +1,5 @@
 # Home-Credit-Default-Risk
 
-
 ![Home Credit](https://user-images.githubusercontent.com/71599944/102082322-d0556680-3e22-11eb-96d4-3433cb10f823.png)
 
 In this project we try to predict home credit default risk for clients. We try to predict, if the client will have payment difficulties or not.
@@ -105,7 +104,6 @@ While Home Credit is currently using various statistical and machine learning me
 * Repayment history for the previously disbursed credits in Home Credit related to the loans in our sample.
 * There is a) one row for every payment that was made plus b) one row each for missed payment.
 * One row is equivalent to one payment of one installment OR one installment corresponding to one payment of one previous Home Credit credit related to loans in our sample.
-
 
 ![alt text](https://storage.googleapis.com/kaggle-media/competitions/home-credit/home_credit.png)
 
